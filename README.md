@@ -24,3 +24,7 @@ pip list
 ```
 deactivate
 ```
+# Librerias
+```
+pip freeze --local > requeriments.txt
+```
