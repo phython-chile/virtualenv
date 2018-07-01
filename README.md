@@ -19,3 +19,8 @@ source  project1_env/bin/activate
 ```
 pip list
 ```
+
+# Salir del ambiente
+```
+deactivate
+```
