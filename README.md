@@ -28,3 +28,7 @@ deactivate
 ```
 pip freeze --local > requeriments.txt
 ```
+# Muestra el contenido Librerias
+```
+cat requeriments.txt
+```
